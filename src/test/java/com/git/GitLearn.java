@@ -24,3 +24,6 @@ public class GitLearn {
 	 public void test6() {
 		System.out.println("9");
 }
+	 public void test9() {
+		System.out.println("0");
+}
